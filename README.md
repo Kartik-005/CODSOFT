@@ -1,52 +1,48 @@
 # CODSOFT Python Programming Internship
 
-This repository contains the tasks completed as part of the **CodSoft Python Programming Internship**.
+This repository contains the projects completed as part of my **CodSoft Python Programming Internship**.
 
-## Tasks Completed
+## Projects
 
-### ✅ Task 1 - To-Do List
-A Python application that allows users to:
+### ✅ Task 1 - To-Do List (GUI)
+A Tkinter-based To-Do List application that allows users to:
 - Add tasks
-- View tasks
-- Update tasks
+- Mark tasks as completed
 - Delete tasks
+- View all tasks
 
 **File:** `task1_todo_list.py`
 
 ---
 
-### ✅ Task 2 - Calculator
-A simple calculator that performs:
-- Addition
-- Subtraction
-- Multiplication
-- Division
-
-**File:** `task2_calculator.py`
-
----
-
-### ✅ Task 3 - Password Generator
-A Python program that generates secure random passwords based on the user-specified length.
+### ✅ Task 3 - Password Generator (GUI)
+A password generator with a graphical interface where users can:
+- Choose password length
+- Include letters, numbers, and symbols
+- Generate secure passwords
+- Copy the generated password to the clipboard
 
 **File:** `task3_password_generator.py`
 
 ---
 
-### ✅ Task 4 - Rock Paper Scissors
-A console-based Rock-Paper-Scissors game where the user plays against the computer.
+### ✅ Task 4 - Rock Paper Scissors (GUI)
+A GUI-based Rock-Paper-Scissors game where users can:
+- Play against the computer
+- View round results
+- Track scores in real time
 
 **File:** `task4_rock_paper_scissors.py`
 
 ---
 
-### ✅ Task 5 - Contact Book
-A contact management application with features to:
+### ✅ Task 5 - Contact Book (GUI)
+A Contact Book application that enables users to:
 - Add contacts
-- View contacts
 - Search contacts
-- Update contacts
+- Update contact details
 - Delete contacts
+- View saved contacts
 
 **File:** `task5_contact_book.py`
 
@@ -54,13 +50,22 @@ A contact management application with features to:
 
 ## Technologies Used
 
-- Python 3
-- VS Code
-- Git
-- GitHub
+- Python
+- Tkinter (GUI)
+- Object-Oriented Programming (OOP)
+- Functions
+- Lists & Dictionaries
+- Loops & Conditional Statements
+- Random & String Modules
+
+---
+
+## GitHub Repository
+
+**Repository:** https://github.com/Kartik-005/CODSOFT
+
+---
 
 ## Author
 
 **Kartik Merothiya**
-
-GitHub: https://github.com/Kartik-005
